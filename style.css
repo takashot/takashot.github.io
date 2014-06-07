@@ -1,20 +1,21 @@
 			.love {
-				color: red;
-			    background-color: #ffcc00;
+				font-size: 55px;
+				text-align: left;
+			}
+
+			.breadcrumb {
+				font-size: 35px;
 			}
 
 			.giant {
 				font-size:80px;
 			}
-			i{
-				border-top: 5px dotted #000;
-				border-bottom: 5px solid #f20ff2;
-				font-weight: bold;
-				font-size:90px;
-				color: green;
-				background-color: #c21;
-				padding: 30px;
-				display: inline-block;
-				text-align: center;
-				vertical-align: top;
+
+			.blog {
+				font-size: 55px;
 			}
+
+			.icons{
+				font-size: 40px;
+			}
+			
